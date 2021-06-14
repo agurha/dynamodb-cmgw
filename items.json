@@ -1,0 +1,55 @@
+[
+    {
+        "Id": "563e96e7-4954-4b5c-b0b5-37f51ef89b95",
+        "Metadata": "Americas",
+        "Headline": "USA: Housing Market Index",
+        "Priority": 5,
+        "SubmittedDate": "8/28/21 9:31:00am",
+        "Author": "Dan Struvyen",
+        "Ratings": "B",
+        "ProductType": "A&I",
+        "Tags": [
+            "Morning Call"
+        ]
+    },
+    {
+        "Id": "563e96e7-4954-4b5c-b0b5-37f51ef89b95",
+        "Metadata": "Reports",
+        "Headline": "USA: Housing Market Index",
+        "Priority": 5,
+        "SubmittedDate": "8/28/21 9:31:00am",
+        "Author": "Dan Struvyen",
+        "Ratings": "B",
+        "ProductType": "A&I",
+        "Tags": [
+            "Morning Call"
+        ]
+    },
+    {
+        "Id": "563e96e7-4954-4b5c-b0b5-37f51ef89b95",
+        "Metadata": "Open",
+        "Headline": "USA: Housing Market Index",
+        "Priority": 5,
+        "SubmittedDate": "8/28/21 9:31:00am",
+        "Author": "Dan Struvyen",
+        "Ratings": "B",
+        "ProductType": "A&I",
+        "Tags": [
+            "Morning Call"
+        ]
+    },
+    {
+        "Id": "563e96e7-4954-4b5c-b0b5-37f51ef89b95",
+        "Metadata": "Americas#Reports#Open",
+        "Headline": "USA: Housing Market Index",
+        "Priority": 5,
+        "SubmittedDate": "8/28/21 9:31:00am",
+        "Author": "Dan Struvyen",
+        "Ratings": "B",
+        "ProductType": "A&I",
+        "Tags": [
+            "Morning Call"
+        ]
+    }
+
+]
